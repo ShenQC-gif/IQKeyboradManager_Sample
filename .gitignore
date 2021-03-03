@@ -1,0 +1,6 @@
+.DS_Store
+*.xcworkspace
+*.lock
+Pods
+*.mp4
+*.gif
